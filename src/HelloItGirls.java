@@ -4,6 +4,9 @@ public class HelloItGirls {
         String myName = args[0];
         System.out.println("Hello, " + myName + "!");
         System.out.println("Hello, Oleg!");
+        System.out.println("Hello, Oleg!");
+        System.out.println("Hello, Oleg!");
+        
     }
 
     public static void sayHello() {
