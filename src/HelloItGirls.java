@@ -5,8 +5,7 @@ public class HelloItGirls {
         System.out.println("Hello, " + myName + "!");
         System.out.println("Hello, Oleg!");
         System.out.println("Hello, Oleg!");
-        System.out.println("Hello, Oleg!");
-
+        System.out.println("Hello, Oleg!");й
     }
 
     public static void sayHello() {
