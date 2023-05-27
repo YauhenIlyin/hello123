@@ -6,7 +6,7 @@ public class HelloItGirls {
         System.out.println("Hello, Oleg!");
         System.out.println("Hello, Oleg!");
         System.out.println("Hello, Oleg!");
-        
+
     }
 
     public static void sayHello() {
